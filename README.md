@@ -12,3 +12,9 @@ Notes:
 used ipinfo.io to get user location
 
 used openweathermap API to retrieve weather
+
+Credits: 
+
+Images from Unsplash
+
+Weather icons from: https://erikflowers.github.io/weather-icons/
