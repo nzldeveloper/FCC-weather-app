@@ -63,3 +63,13 @@ body {
             text-decoration: none; 
             color: rebeccapurple; 
         }
+
+@media screen and (max-width: 600px) {
+    
+    .bigcontainer {
+            
+           
+            width: 85%;
+    }
+    
+}
