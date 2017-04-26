@@ -9,19 +9,18 @@ body {
         .bigcontainer {
             
            
-            width: 40%;
+            width: 30%;
             margin: auto; /*center aligns the element*/
             text-align: center; 
             position: relative;
             top: 50px; 
             background-color: rgba(211,211,211, 0.6);
             border-radius: 20px; 
-            padding-bottom: 10px;
         }
         
         .container {
             
-           padding: 20px; 
+           padding: 20px 0; 
             
                         
         }
@@ -34,17 +33,18 @@ body {
         i {
             
             font-size: 250%; 
-            padding: 0 10px; 
         }
         
-        .font {
+        .weather-font {
             
-            font-size: 150%;    
+            font-size: 130%;
+            margin: 10px; 
         }
-        
+
+
         #weathericons {
             
-            padding-bottom: 10px; 
+            padding: 10px 0; 
         }
         
         .extras p {
@@ -55,7 +55,21 @@ body {
         button {
             
             font-family: "Georgia", serif; 
-            padding: 5px; 
+            padding: 10px; 
+            border-radius: 15px; 
+            border: 2px solid #025AA5;
+               
+            
+        }
+
+        .container2 {
+
+            padding-bottom: 10px; 
+        }
+
+        .container2 p {
+
+            margin: 0; 
         }
 
         a, a:visited {
@@ -64,7 +78,7 @@ body {
             color: rebeccapurple; 
         }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 700px) {
     
     .bigcontainer {
             
